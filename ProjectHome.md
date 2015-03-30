@@ -1,0 +1,1 @@
+A desktop application in C# using Emgu CV that extracts text from signboards and translates to a user specified language.
